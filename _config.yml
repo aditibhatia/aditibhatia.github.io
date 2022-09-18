@@ -35,7 +35,7 @@ plugins:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 808080 #18bc9c #80B3FF
-  primary-rgb: "255,102,178" #"24,288,156" #"128,179,255"
+  primary-rgb: "187,236,242" #"24,288,156" #"128,179,255"
   secondary: 000080 #2c3e50 #FD6E8A
   secondary-dark: 808080 #233140 #A2122F
 
@@ -48,7 +48,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: gmail
+  - title: email
     mailto: aditi.bhatia@mail.utoronto.ca
   - title: twitter
     url: http://twitter.com/aditibhatia29
