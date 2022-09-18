@@ -49,7 +49,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: email
-    url: mailto:aditi.bhatia@mail.utoronto.ca
+    mailto: aditi.bhatia@mail.utoronto.ca
   - title: twitter
     url: http://twitter.com/aditibhatia29
   - title: googlescholar
