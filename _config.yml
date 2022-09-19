@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 808080 #18bc9c #80B3FF
+  primary: BBECF2 #18bc9c #80B3FF
   primary-rgb: "187,236,242" #"24,288,156" #"128,179,255"
   secondary: 000080 #2c3e50 #FD6E8A
   secondary-dark: BBECF2 #233140 #A2122F
@@ -52,8 +52,8 @@ social:
     mailto: aditi.bhatia@mail.utoronto.ca
   - title: twitter
     url: http://twitter.com/aditibhatia29
-  - title: googlescholar
-    url: 
+  - title: scholargoogle
+    url: https://scholar.google.com/citations?user=AgTnd9EAAAAJ&hl=en
   - title: linkedin
     url: https://www.linkedin.com/in/aditibhatia/
   - title: github
