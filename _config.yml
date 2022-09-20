@@ -42,22 +42,40 @@ color:
 # Footer settings
 footer:
   copyright: Aditi Bhatia-Kalluri
-  #location: Brampton ON
-  #social: Around the Web
-  #credits: Credits
+  location: Location
+  social: Connect with me
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: email
-    mailto: aditi.bhatia@mail.utoronto.ca
   - title: twitter
     url: http://twitter.com/aditibhatia29
-  - title: scholargoogle
+  - title: scholar-google
     url: https://scholar.google.com/citations?user=AgTnd9EAAAAJ&hl=en
   - title: linkedin
     url: https://www.linkedin.com/in/aditibhatia/
   - title: github
     url: http://github.com/aditibhatia
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Toronto
+  - line: Canada
+
+# Credits content
+credits: 'SOURCE CODE IN <a href="https://github.com/aditibhatia">GITHUB</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
