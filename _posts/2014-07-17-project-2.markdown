@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: project2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2022
+client: Hyderabad & Delhi, India
+category: Food Delivery
+description: Leading research on digital inclusion fostered by the food delivery apps such as Zomato and Swiggy for the street food vendors in Hyderabad and New Delhi, India. This research aims to understand the growth and expansion of food delivery platforms and their adoption by street vendors. This project aims to perceive material differences for the vendors, before and after onboarding to the food delivery apps. This is a single researcher project in the transcription stages. 
 ---

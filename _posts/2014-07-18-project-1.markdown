@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: project1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2022
+client: Hyderabad, India
+category: Handicrafts
+description: Leading a project on analyzing the financial inclusion of marginalized artisan and handicraft micro-entrepreneurs. Collaborative research with students and professors from BITS Pilani Hyderabad campus, and iSchool University of Toronto professors. The research was led at Shilparamam, an arts and crafts market venue that hosts artisan vendors from across India located in Hyderabad. The project is in the transcription stages. 
 ---
